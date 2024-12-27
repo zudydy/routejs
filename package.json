@@ -17,7 +17,8 @@
   "scripts": {
     "build": "tsup src/index.ts --format esm,cjs --dts",
     "dev": "jest --watch",
-    "test": "jest"
+    "test": "jest",
+    "release": "./scripts/release.sh"
   },
   "keywords": [],
   "author": "",
