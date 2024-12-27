@@ -1,4 +1,4 @@
-type ParamsType = Record<string, string>
+type ParamsType = Record<string, string | number>
 type QueryType = Record<string, string | number | boolean>
 
 type BaseRoute = {
