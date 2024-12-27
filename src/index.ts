@@ -1,3 +1,1 @@
-export const hello = () => {
-  return "ts-route!"
-}
+export * from "./route-builder"
