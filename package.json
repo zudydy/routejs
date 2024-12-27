@@ -1,5 +1,5 @@
 {
-  "name": "typed-route",
+  "name": "ts-route",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.cjs",

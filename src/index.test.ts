@@ -1,5 +1,5 @@
 import { hello } from "./index"
 
-test("typed-route", () => {
-  expect(hello()).toBe("typed-route!")
+test("ts-route", () => {
+  expect(hello()).toBe("ts-route!")
 })
